@@ -1,0 +1,7 @@
+div{
+    display: flex;
+}
+li>button{
+    
+    justify-items: flex-start;
+}
