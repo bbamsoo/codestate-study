@@ -1,0 +1,45 @@
+#greeting {
+    font-size: 2em;
+    font-family: sans-serif;
+    font-weight: bold;
+  
+    border-radius: 1em;
+    color: white;
+    background-color: black;
+    text-shadow: 0 0 5px #333;
+    text-align: center;
+  }
+  .input {
+    font-family: serif;
+    font-size: 10px;
+    color: black;
+  }
+  .input {
+    font-family: serif;
+    font-size: 10px;
+    color: white;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .tweet__createdAt {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .white {
+    border-bottom: black 1px solid;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  
+  #tweetWrapper {
+    list-style: none;
+  }
+  

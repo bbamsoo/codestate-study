@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>twittler</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+</head>
+<body>
+<!-- 여기에 HTML 구조를 작성하세요. 아래 코드는 예제이며, 얼마든지 바꿀 수 있습니다 -->
+<div>
+<div id="greeting"><img src="https://w7.pngwing.com/pngs/749/7/png-transparent-band-logo-bersa-naver-computer-software-bulletin-board-text-trademark-sign.png"
+  alt="카카오 라이언" width="50" height="30" align="left" border="0">CodeStates 41기
+  <div class="input">
+    Username<input type="text" id="usernameInput">
+    Message<input type="text" id="messageInput">
+    <button id="tweetButton"><img src="data:image/png;base64,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"
+      alt="카카오 라이언" width="20" height="20" align="center" border="0"></button>
+      <div>
+      <button id="randomButton"><img src="https://e7.pngegg.com/pngimages/474/199/png-clipart-computer-icons-desktop-transfer-icon-angle-text.png"
+      alt="카카오 라이언" width="20" height="20" align="" border="0"></button>
+      
+    </div>
+
+</div>
+</div>
+
+
+
+<!-- Tweet lists -->
+<section id="tweetlist" class="white"></section>
+
+<script src="script.js"></script>
+</body>
+</html>
