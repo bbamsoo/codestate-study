@@ -13,7 +13,7 @@ ex) git add. or git add 파일명
 ex) git log
 
 - commit : 변경 내용을 로컬에 반영
-ex) git commit -m '커밋 내용'
+ex) git commit -m '커밋 내용' (aM 사용시 add와 commit 둘다 적용)
 
 - remote : 원격 저장소와 연동
 ex) 1. git remote add origin'git url' 2. git remote -v 3. git remote remove origin
