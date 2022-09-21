@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java/be-sprint-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/be-sprint-stringify-json" vcs="Git" />
   </component>
 </project>
