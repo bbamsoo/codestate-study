@@ -4,5 +4,8 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java/be-sprint-calculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java/be-sprint-stringify-json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/be-homework-controller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/be-homework-dto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/be-template-service-layer" vcs="Git" />
   </component>
 </project>
